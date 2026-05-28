@@ -221,6 +221,7 @@ numpy
 
 # Screenshots
 
+<img src="Screenshot 2026-05-28 092120.png" width=700>
 
 ---
 
