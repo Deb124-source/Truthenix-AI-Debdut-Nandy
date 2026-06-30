@@ -8,6 +8,11 @@ The system analyzes news articles and predicts whether the news is **REAL** or *
 
 ---
 
+## Live Demo
+https://truthenix-ai-debdut-nandy.streamlit.app/
+
+---
+
 # Preview
 
 Truthenix features:
