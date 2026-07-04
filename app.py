@@ -7,11 +7,11 @@ import pickle
 # ----------------------------
 
 model = pickle.load(
-    open("fake_news_model.pkl","rb")
+    open("model/fake_news_model.pkl","rb")
 )
 
 vectorizer = pickle.load(
-    open("vectorizer.pkl","rb")
+    open("model/vectorizer.pkl","rb")
 )
 
 
